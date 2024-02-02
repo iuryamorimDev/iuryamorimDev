@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iuryamorimDev
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me Iuryamorim287@gmail.com or iuryamorimdev@gmail.com
